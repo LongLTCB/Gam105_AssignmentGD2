@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -348,7 +348,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Animated Tree2_0: 7370629601871607843
+      Animated Tree2_1: -8608600109230747996
+      Animated Tree2_2: -3558439232213345352
+      Animated Tree2_3: -3703130452092808807
+      Animated Tree2_4: 8056828220004903428
+      Animated Tree2_5: -3384234431208542738
+      Animated Tree2_6: -7199648677633357331
+      Animated Tree2_7: 3088343930288847302
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

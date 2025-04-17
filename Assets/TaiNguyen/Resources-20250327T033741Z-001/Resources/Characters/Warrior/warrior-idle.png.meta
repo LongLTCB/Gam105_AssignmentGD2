@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -548,7 +548,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      warrior-idle_0: -3725521666771283068
+      warrior-idle_1: -5217481041468126269
+      warrior-idle_10: -8109176972367735593
+      warrior-idle_11: 2527801726252153316
+      warrior-idle_12: 2827709380116893393
+      warrior-idle_13: -4976015548776332783
+      warrior-idle_14: -269234407127601834
+      warrior-idle_15: 8206408859751892006
+      warrior-idle_2: 871683952922751419
+      warrior-idle_3: -3458158453375310007
+      warrior-idle_4: 4987310158606255569
+      warrior-idle_5: 8944168145961329806
+      warrior-idle_6: -8792856980865986154
+      warrior-idle_7: 7174913977222122979
+      warrior-idle_8: -2776323293601194104
+      warrior-idle_9: -406775175625716413
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

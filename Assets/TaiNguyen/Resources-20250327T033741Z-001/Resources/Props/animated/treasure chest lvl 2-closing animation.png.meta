@@ -81,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -423,7 +423,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      treasure chest lvl 2-closing animation_0: -7348775522412793253
+      treasure chest lvl 2-closing animation_1: 452013168515077545
+      treasure chest lvl 2-closing animation_10: 7452334483336633419
+      treasure chest lvl 2-closing animation_2: -5515204238385166637
+      treasure chest lvl 2-closing animation_3: -8970997445285207261
+      treasure chest lvl 2-closing animation_4: -1032899552948076406
+      treasure chest lvl 2-closing animation_5: -696639203635257198
+      treasure chest lvl 2-closing animation_6: -1464421994224181229
+      treasure chest lvl 2-closing animation_7: 3697677166259474790
+      treasure chest lvl 2-closing animation_8: -229741891548670959
+      treasure chest lvl 2-closing animation_9: 4349346706501603055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
